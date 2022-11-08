@@ -7,7 +7,7 @@ In this code repository, we disclose the model structure of the time series enco
 We also provide:
 
 - detailed datasets information of the 'Using extra pre-training data' analysis section.
-- comprehensive results associated with Table 1 for each dataset.
+- comprehensive results associated with Table 2 for each dataset.
 - figures depicting how fast each pre-training task converges on both the MTS and UTS datasets.
 
 ### The structure of time-series encoders
