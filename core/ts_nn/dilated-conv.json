@@ -1,0 +1,6 @@
+{
+  "hidden_dims": 64,
+  "depth": 10,
+  "kernel_size": 3,
+  "output_dims": 300
+}
