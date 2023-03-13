@@ -1,4 +1,4 @@
-**Title**: **H**ow does **U**nsupervised **P**re-training **A**ffect **F**ine-tuning on **T**ime **S**eries **C**lassification? (HUPAFTSC)
+**Title**: Examining the Effect of Pre-training Followed by Fine-tuning on Time Series Classification
 
 ### Overview
 
